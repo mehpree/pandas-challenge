@@ -1,3 +1,5 @@
+![Alt text](Images/education.png)
+
 # PyCitySchools Data Analysis
 
 Welcome to the PyCitySchools data analysis project! Assuming I am the Chief Data Scientist for a city's school district, I've conducted a comprehensive analysis of standardized test results and school-related data. This analysis aims to assist the school board and the mayor in making informed decisions regarding future school budgets and priorities. Below, I'll provide an overview of the key findings and trends discovered during this analysis.
